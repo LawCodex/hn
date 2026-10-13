@@ -1,0 +1,193 @@
+---
+title: Normativa complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas
+identifier: null
+type: decree
+jurisdiction: hn
+language: es
+status: unknown
+source: https://www.tsc.gob.hn/biblioteca/index.php/varios/1072-normativa-complementaria-al-reglamento-para-la-negociacion-en-el-mercado-organizado-de-divisas
+source_pdf: https://www.tsc.gob.hn/web/leyes/Acuerdo-No-07-2021-BCH.pdf
+retrieved: '2026-10-13'
+---
+
+# Normativa complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas
+
+> Texto del PDF publicado en la Biblioteca Virtual del Tribunal Superior de Cuentas.
+
+EMPRESA NACIONAL DE ARTES GRÁFICAS E.N.A.G.
+
+## Sección A — AÑO CXLIII TEGUCIGALPA, M. D. C., HONDURAS, C. A. MARTES 28 DE SEPTIEMBRE DEL 2021. NUM. 35,731
+
+1A.
+
+SUMARIO
+
+## Sección A — Decretos y Acuerdos
+
+BANCO CENTRAL DE HONDURAS Acuerdo No. 07/2021 A. 1 - 8
+
+## Sección B — Avisos Legales B. 1 - 20
+
+Desprendible para su comodidad Banco Central de Honduras ACUERDO No.07/2021.- Sesión No.3903 del 3 de junio de 2021.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS, CONSIDERANDO: Que según lo dispuesto en la Constitución de la República y en la Ley del Banco Central de Honduras (BCH), corresponde a esta Institución formular, desarrollar y ejecutar la política monetaria, crediticia y cambiaria del país.
+
+CONSIDERANDO: Que para las operaciones de compra y venta de divisas que realice el BCH y sus agentes cambiarios, así como las que efectúe el sector público, se aplicará el Reglamento para la Negociación en el Mercado Organizado de Divisas; asimismo, la Normativa Complementaria a dicho Reglamento, a fin de facilitar su cumplimiento y aplicación.
+
+CONSIDERANDO: Que conforme al plan de modernización del marco operacional de la política cambiaria y acorde con las medidas de política establecidas en el Programa Monetario, es necesario continuar avanzando en la estrategia de desarrollo del Mercado Organizado de Divisas.
+
+CONSIDERANDO: Que de acuerdo con el Calendario de Reducción del Requerimiento de Entrega de Divisas de los Agentes Cambiarios al BCH, el cual fue aprobado mediante Resolución No.176-5/2020 del 28 de mayo de 2020, se establece que para junio de 2021 se estaría eliminado el requerimiento de entrega de divisas de los agentes cambiarios a esta institución.
+
+CONSIDERANDO: Que vista la propuesta del Departa - mento de Operaciones Cambiarias presentada al Comité de Divisas en Sesión No.04/2021 celebrada de manera vir - tual los días 24 y 27 de mayo de 2021, dicho Comité decidió por unanimidad de votos someter a consideración del Directorio del BCH la liberalización del 20% restante de la entrega de di - visas por parte de los bancos al BCH, llegando al 100% de la liberalización; así como liberar el 100% del traslado Sección A Acuerdos y Leyes REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 28 DE SEPTIEMBRE DEL 2021 No. 35,731 DIARIO OFICIAL DE LA REPÚBLICA DE HONDURAS DECANO DE LA PRENSA HONDUREÑA PARA MEJOR SEGURIDAD DE SUS PUBLICACIONES ABOG. THELMA LETICIA NEDA Gerente General JORGE ALBERTO RICO SALINAS Coordinador y Supervisor EMPRESA NACIONAL DE ARTES GRÁFICAS E.N.A.G.
+
+Colonia MirafIores Teléfono/Fax: Gerencia 2230-2520, 2230-1821 Administración: 2230-3026 CENTRO CÍVICO GUBERNAMENTAL La Gaceta de divisas de las casas de cambio, y el incremento de los montos máximos de las posturas de compra en el Mercado Interbancario de Divisas (MID) y de atención diaria a los clientes.
+
+CONSIDERANDO: Que mediante Acuerdo No.06/2021, el Directorio del BCH aprobó el nuevo Reglamento para la Negociación en el Mercado Organizado de Divisas, por lo que resulta conveniente derogar el Acuerdo No.03/2021, contentivo de la Normativa Complementaria del Reglamento para la Negociación en el Mercado Organizado de Divisas y emitir un nuevo acuerdo.
+
+POR TANTO: Con fundamento en los artículos 342 de la Constitución de la República; 118 de la Ley General de la Administración Pública; 2, 6, 16, incisos a), f), l) y n), 29 y 32 de la Ley del Banco Central de Honduras; 46, numerales 11) y 12) de la Ley del Sistema Financiero; en el Reglamento para la Negociación en el Mercado Organizado de Divisas y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, A C U E R DA:
+
+I. Aprobar la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, en los términos siguientes: “NORMATIV A COMPLEMENTARIA AL REGLAMENTO PARA LA NEGOCIACIÓN EN EL MERCADO ORGANIZADO DE DIVISAS
+
+1. COMPRA DE DIVISAS Para efectos de lo dispuesto en los artículos 4 y 6 del Reglamento para la Negociación en el Mercado Organizado de Divisas, en adelante denominado Reglamento, se establece que: 1.1 Las compras de divisas realizadas por los agentes cambiarios a sus clientes del sector privado deberán realizarse mediante los diferentes medios de pagos existentes y bajo su propia cuenta y riesgo. Asimismo, las compras de divisas diferentes al dólar de los EUA realizadas por los agentes cambiarios a sus clientes del sector privado se harán bajo su propia cuenta y riesgo y no formarán parte de la tenencia de divisas. 1.2 Las divisas compradas por los agentes cambiarios a sus clientes del sector privado de acuerdo con el numeral anterior, deberán utilizarse para los fines detallados a continuación:
+
+a) Erogaciones propias.
+
+b) Ventas diarias a los clientes del sector privado por montos menores o iguales a un millón quinientos mil dólares de los EUA (US$1,500,000.00).
+
+c) Para la venta en el Mercado Interbancario de Divisas (MID), en el caso de los bancos.
+
+Sección A Acuerdos y Leyes REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 28 DE SEPTIEMBRE DEL 2021 No. 35,731 Las divisas no utilizadas en los conceptos anteriores formarán parte de la tenencia de divisas, sin exceder el límite autorizado por el Directorio del BCH.
+
+Cuando no se realicen eventos de negociación en el MID, los bancos podrán acumular los ingresos de divisas en las cuentas de la tenencia de divisas, sin considerarse para el cálculo de la misma; estas divisas deberán ser negociadas en el evento inmediato posterior del MID.
+
+Las transacciones realizadas por los agentes cambiarios para los destinos antes descritos deberán reportarse detalladamente en los archivos electrónicos de compra y venta de divisas de acuerdo con lo establecido en la boleta correspondiente.
+
+2. PRECIO BASE 2.1. Para efectos de lo dispuesto en el Artículo 9 del Reglamento para la Negociación en el Mercado Organizado de Divisas, se considerarán para el cálculo del Precio Base las siguientes variables:
+
+a) Diferencial de Inflación Interna y Externa: Se entenderá como Tasa de Inflación Externa el promedio ponderado de las tasas de inflación estimadas de los principales socios comerciales de Honduras y la inflación interna se medirá por el Índice de Precios al Consumidor (IPC). El diferencial de inflación se determinará comparando la variación interanual del IPC registrada en el último mes con la inflación externa, ponderada con la estructura de comercio exterior, misma que se revisará periódicamente.
+
+b) Índice de Tipo de Cambio Efectivo Nominal: Mide la evolución de los tipos de cambio de los principales socios comerciales respecto al dólar de los EUA. c ) Cobertura de Reservas Internacionales: Número de meses de importación que cubre el saldo de los Activos de Reservas Oficiales del BCH. 2.2. El Precio Base se calculará cada cinco
+
+(5) eventos del MID, tomando en consideración las variables descritas en el numeral anterior.
+
+3. NEGOCIACIÓN EN EL MERCADO INTERBANCARIO DE DIVISAS (MID) 3.1. De conformidad con lo dispuesto en el
+
+###### Artículo 12
+
+del Reglamento, los eventos de negociación en el MID se efectuarán para la compra y venta de dólares de los EUA exclusivamente, bajo el esquema de primeras entradas-primeras salidas y serán realizados en los días señalados por el BCH.
+
+Las divisas compradas por los agentes cambiarios en el MID deberán utilizarse para lo siguiente:
+
+a) Erogaciones propias.
+
+b) Ventas por cliente del sector privado por montos menores o iguales a un millón quinientos mil dólares de los EUA (US$1,500,000.00) diariamente.
+
+Sección A Acuerdos y Leyes REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 28 DE SEPTIEMBRE DEL 2021 No. 35,731
+
+c) Venta a sus clientes del sector privado para la conversión de recursos en moneda local provenientes del servicio y negociación de deuda interna emitida por la Secretaría de Finanzas (SEFIN) y colocada a inversionistas no residentes.
+
+Las divisas compradas en el MID deberán venderse a los clientes al Tipo de Cambio de Referencia (TCR) del día de la venta, más la comisión cambiaria.
+
+Las divisas adquiridas por los agentes cambiarios autorizados en el MID y no utilizadas en los conceptos anteriores formarán parte de su tenencia de divisas. 3.2. Conforme a lo dispuesto en el Artículo 13 del Reglamento, la duración y los horarios habituales de la negociación en el MID serán informados por la Gerencia del BCH mediante circular dirigida a los agentes cambiarios; no obstante, los horarios específicos diarios y demás información relevante concerniente a dichos eventos serán suministrados en el aviso de convocatoria a los eventos de negociación de dicho mercado. 3.3. Acorde con lo dispuesto en el Artículo 14 del Reglamento, las funciones del Comité de Negociación en el Mercado Interbancario de Divisas son las siguientes:
+
+a) Convocar al evento de negociación en el MID e informar los resultados del evento anterior.
+
+b) Dar seguimiento a las transacciones en el MID. c ) Aplicar los lineamientos establecidos por el Directorio del BCH para participar en el MID.
+
+d) Levantar y suscribir diariamente el acta sobre los resultados de cada negociación en el MID.
+
+e) Informar mensualmente al Comité de Divisas sobre la evolución del MID.
+
+f) Solicitar información adicional a los agentes cambiarios, cuando sea necesario. 3.4. De conformidad a lo dispuesto en el
+
+###### Artículo 15
+
+del Reglamento, los precios de las ofertas de compra y venta de divisas presentadas en el MID deberán estar comprendidos en una banda cambiaria de uno por ciento (1%) por encima y por debajo del centro de la banda cambiaria, el que estará conformado por el promedio del Precio Base utilizado en los últimos siete (7) eventos del MID más el promedio de la variación absoluta del Tipo de Cambio de Referencia vigente del día respecto al del día hábil anterior de los siete (7) días hábiles previos; es decir, que no se aceptarán solicitudes de compra y venta de divisas cuyos precios ofrecidos sean superiores al techo o inferiores al piso de la banda.
+
+Los agentes cambiarios y el BCH podrán presentar ofertas de compra y venta de divisas por un monto mínimo de diez mil dólares de los EUA (US$10,000.00) y en múltiplos íntegros de diez dólares de los EUA (US$10.00) para montos superiores.
+
+El monto máximo por cada oferta de compra de divisas será de un millón de dólares de los EUA (US$1,000,000.00) cada una.
+
+Sección A Acuerdos y Leyes REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 28 DE SEPTIEMBRE DEL 2021 No. 35,731 Si un participante en el MID ingresa una oferta de compra o de venta de divisas, no podrá ingresar una nueva oferta mientras la anterior esté pendiente de calce. 4 . INGRESOS DE DIVISAS POR ACTIVIDADES NO CAMBIARIAS Y POR MOVIMIENTO DE CAPITAL Y FINANCIEROS DEL SECTOR BANCARIO De conformidad a lo dispuesto en el Artículo 19 del Reglamento, se establece lo siguiente: 4.1. El ingreso de divisas por actividades no cambiarias y por movimientos de capital y financieros del sector bancario, registrados en la tenencia de divisas por agente cambiario podrá ser utilizado para lo siguiente:
+
+a) Erogaciones propias.
+
+b) Venta por cliente del sector privado por montos menores o iguales a un millón quinientos mil dólares de los EUA (US$1,500,000.00) diariamente.
+
+c) Venta en el MID, en el caso de los bancos.
+
+Las divisas no utilizadas en los conceptos descritos en este numeral formarán parte de la tenencia de divisas.
+
+5. VENTA DIRECTA DE DIVISAS DEL BCH 5.1. Las empresas importadoras de petróleo y sus derivados, así como las dedicadas a la generación de energía eléctrica que soliciten comprar divisas directamente al BCH, de acuerdo a lo dispuesto en el Artículo 5 del Reglamento, deberán presentar al Departamento Operaciones Cambiarias del BCH la documentación que respalde la solicitud de compra de divisas en forma directa al BCH, las divisas adquiridas deberán utilizarse exclusivamente para lo solicitado. 5.2. La empresa solicitante, mediante transferencia electrónica o cheque certificado, deberá pagar al BCH los lempiras correspondientes al monto solicitado más la respectiva comisión cambiaria y los gastos de envío; asimismo, indicará el número de cuenta bancaria en la que el BCH le acreditará las respectivas divisas. 5.3. En caso de que un grupo corporativo cuente con varias empresas dedicadas a la importación de petróleo o a la generación de energía eléctrica, cada una de ellas deberá presentar la solicitud de divisas en forma separada.
+
+6. COMISIONES CAMBIARIAS Las comisiones cambiarias, conforme a lo dispuesto en los artículos del Reglamento, serán las siguientes: 6.1. El BCH:
+
+a) Pagará una comisión cambiaria por la compra de divisas en el MID de cero punto tres por ciento (0.3%).
+
+b) No pagará comisión cambiaria por la compra directa de divisas efectuada al sector público y a las personas naturales y jurídicas.
+
+c) Cobrará una comisión cambiaria por venta de divisas en el MID de cero punto tres por ciento (0.3%).
+
+Sección A Acuerdos y Leyes REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 28 DE SEPTIEMBRE DEL 2021 No. 35,731
+
+d) Cobrará una comisión cambiaria de cero punto uno por ciento (0.1%) a los agentes cambiarios sobre el monto de divisas utilizadas para erogaciones propias y para la venta a sus clientes del sector privado.
+
+e) Cobrará una comisión cambiaria por venta directa de divisas a las instituciones del sector público de cero punto siete por ciento (0.7%).
+
+f) Cobrará una comisión de cero punto siete por ciento (0.7%) de las divisas vendidas directamente a las empresas importadoras de petróleo y derivados, a las generadoras de energía eléctrica y a otras que por su naturaleza ameriten este tratamiento, de conformidad a las condiciones macroeconómicas existentes.
+
+g) Cobrará una comisión cambiaria por venta directa de divisas a otras personas naturales o jurídicas del sector privado, diferentes a los agentes cambiarios, de cero punto siete por ciento (0.7%). 6.2. Los agentes cambiarios autorizados:
+
+a) Cobrarán a sus clientes del sector privado una comisión cambiaria por la venta de divisas, misma que no podrá exceder del cero punto siete por ciento (0.7%).
+
+b) Cobrarán una comisión cambiaria de cero punto tres por ciento (0.3%) por las divisas vendidas en el MID.
+
+c) No cobrarán comisión por la compra de divisas realizadas a sus clientes del sector privado.
+
+7. TENENCIA DE DIVISAS 7.1. Para efectos de lo dispuesto en los artículos 22, 23 y 24 del Reglamento, el agente cambiario deberá mantenerse dentro de su límite máximo diario de tenencia de divisas establecido por el BCH. Únicamente a la CNBS le será comunicado el detalle del límite de tenencia establecido para cada uno de los agentes cambiarios.
+
+El límite de tenencia de divisas que le corresponda a cada agente cambiario le será notificado por el BCH en forma individual.
+
+La tenencia diaria de divisas de los agentes cambiarios estará integrada por la suma de saldos que presenten las cuentas en moneda extranjera del balance analítico de los agentes cambiarios, así:
+
+Para instituciones del sector bancario:
+
+• 111.0103 “Caja, Caja Movimiento Diario, Divisas del Sistema de Subastas”.
+
+• 111.0202 “Caja, Caja de Reserva, Divisas del Sistema de Subastas”.
+
+• 113.01 “Depósitos en Bancos del Interior, Depósitos en Moneda Extranjera”.
+
+• 116.01 “Depósitos en Bancos del Exterior, Depósitos a la Vista”.
+
+Para las casas de cambio:
+
+• 100.02 “Caja-Moneda Extranjera”.
+
+• 101.02 “Depósitos en Bancos Nacionales-Moneda Extranjera”.
+
+• 102 “Depósitos en Bancos del Exterior-Moneda Extranjera”.
+
+Sección A Acuerdos y Leyes REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 28 DE SEPTIEMBRE DEL 2021 No. 35,731
+
+• 104.06 “Cuentas Por Cobrar-Banco Central de Honduras-Subasta”. 7.2. En las cuentas antes descritas solamente se deberán incluir las divisas originadas de las fuentes siguientes:
+
+a) Las divisas compradas a sus clientes del sector privado acorde con lo dispuesto en el numeral 1.
+
+b) Las divisas compradas en el MID, por los bancos.
+
+c) Los ingresos de divisas recibidos por actividades no cambiarias y movimientos de capital y financiero del sector bancario que los agentes cambiarios determinen integrar en las cuentas de tenencia de divisas.
+
+Las divisas de los incisos anteriores podrán utilizarse para erogaciones propias, venta por cliente del sector privado por montos menores o iguales a un millón quinientos mil dólares de los EUA (US$1,500,000.00), el cual representa el monto máximo diario de venta por cliente y venta en el MID en el caso de los bancos. 7.3. Los agentes cambiarios que al cierre de sus operaciones diarias registren excesos del límite de tenencia de divisas establecido, deberán transferir dichos excesos al BCH a más tardar el siguiente día hábil al del registro del excedente al TCR vigente de la fecha en que ocurrió el exceso. El BCH no pagará comisión cambiaria por los montos transferidos por este concepto.
+
+Los agentes cambiarios que incumplan en el traslado de estas divisas, en los términos antes descritos, serán reportados a la CNBS y sancionados acorde a lo establecido en la normativa vigente.
+
+Dichos excedentes deberán reportarse en los archivos electrónicos de compra y venta de divisas acorde a lo establecido en el instructivo dispuesto para tal fin en la página web del BCH. 7.4. Los agentes cambiarios podrán solicitar ajustes por errores en sus operaciones que hayan generado excedentes en su tenencia de divisas, como resultado de las revisiones en las operaciones reportadas inicialmente, los que deberán ser debidamente documentados y remitidos al BCH para su descargo cuando éstos correspondan; caso contrario, se notificará al agente cambiario que se mantiene el nivel de tenencia de divisas registrado.
+
+En todo caso, los ajustes que resulten de tales revisiones se liquidarán a los precios de compra de las transacciones originales. 7.5. Los límites máximos de tenencia de divisas que se establecen para las nuevas instituciones que sean autorizadas a partir de la vigencia de esta resolución serán de ochocientos mil dólares de los EUA (US$800,000.00) para los bancos y de cuatrocientos mil dólares de los EUA (US$400,000.00) para las casas de cambio. 8 . REPORTES E INFORMACIÓN ADICIONAL Acorde con lo dispuesto en los artículos 7 y 20 del Reglamento, se establece lo siguiente: 8.1. Para los efectos de los reportes solicitados por el BCH a los agentes cambiarios, el Sección A Acuerdos y Leyes REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 28 DE SEPTIEMBRE DEL 2021 No. 35,731 dólar de EUA será la unidad de cuenta que se utilizará para expresar todas las divisas negociadas por los agentes cambiarios. 8.2. Los agentes cambiarios deberán enviar diariamente al BCH, en forma preliminar y acorde con el horario establecido para tal fin, un reporte consolidado de compra y venta de divisas originadas de las fuentes descritas en los numerales 1, 3, y 4 de esta normativa, así como los depósitos y retiros de las cuentas de depósitos en moneda extranjera; adicionalmente, deberá ingresar los datos de las transacciones antes descritas al Módulo de Reporte Preliminar de Compra y Venta de Divisas del SENDI. 8.3. Los agentes cambiarios deberán enviar de forma electrónica a través del sistema de Balanza Cambiaria, a más tardar a las 10:00 a.m. del siguiente día hábil de la realización de las operaciones, el reporte diario de las transacciones cambiarias realizadas. 8.4. Los agentes cambiarios enviarán las Declaraciones de Ingreso de Divisas Provenientes de las Exportaciones al BCH a más tardar el segundo día hábil a la recepción de las mismas. 8.5. Los agentes cambiarios deberán asegurarse de reportar las transacciones de sus clientes en forma individual, acorde con el instructivo del archivo electrónico de compra y venta de divisas disponible para tal fin en la página web del BCH. No se aceptará el envío de archivos con registros acumulados o la presentación de los datos en forma incompleta o incorrecta. 8.6. Los agentes cambiarios deberán remitir diariamente a más tardar a las doce del mediodía del siguiente día hábil al de la realización de las operaciones y por los medios indicados por el BCH, el dato de los saldos contables de las cuentas del balance analítico que conforman la tenencia de divisas. 8.7. Los agentes cambiarios deberán asegurarse que toda la información remitida al BCH esté correcta, sea fidedigna y de conformidad con lo solicitado; no obstante, el BCH podrá solicitar a la CNBS la verificación de la misma.”
+
+II. Instruir a la Secretaría del Directorio para que comunique este acuerdo a la Comisión Nacional de Bancos y Seguros, a los agentes cambiarios, a la Secretaría de Estado en el Despacho de Finanzas y a la Asociación Hondureña de Instituciones Bancarias (Ahiba) para los fines pertinentes.
+
+III. Derogar el Acuerdo No.03/2021 del 18 de febrero de 2021, contentivo de la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas emitido por el Directorio del Banco Central de Honduras.
+
+I V. El presente acuerdo entrará en vigencia a partir del 14 de junio de 2021 y deberá publicarse en el Diario Oficial La Gaceta.
+
+HUGO DANIEL HERRERA CARDONA Secretario

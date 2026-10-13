@@ -1,0 +1,383 @@
+---
+title: Reglamento del Consejo Nacional de Seguridad Interior (CONASIN)
+identifier: null
+type: regulation
+jurisdiction: hn
+language: es
+status: unknown
+source: https://www.tsc.gob.hn/biblioteca/index.php/reglamentos/586-reglamento-del-consejo-nacional-de-seguridad-interior-conasin
+source_pdf: https://www.tsc.gob.hn/web/leyes/Reglamento_CONASIN.pdf
+retrieved: '2026-10-13'
+---
+
+# Reglamento del Consejo Nacional de Seguridad Interior (CONASIN)
+
+> Texto del PDF publicado en la Biblioteca Virtual del Tribunal Superior de Cuentas.
+
+Sección A Acuerdos y Leyes REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 1 DE AGOSTO DEL 2014 No. 33,494 La primera imprenta llegó a Honduras en 1829, siendo instalada en Tegucigalpa, en el cuartel San Francisco, lo primero que se imprimió fue una proclama del General Morazán, con fecha 4 de diciembre de 1829.
+
+Después se imprimió el primer periódico oficial del Gobierno con fecha 25 de mayo de 1830, conocido hoy, como Diario Oficial "La Gaceta".
+
+AÑO CXXXVII TEGUCIGALPA, M. D. C., HONDURAS, C. A. VIERNES 1 DE AGOSTO DEL 2014. NUM. 33,494 EMPRESA NACIONAL DE ARTES G RÁFICAS E.N.A.G.
+
+## Sección A — DIARIO OFICIAL DE LA REPUBLICA DE HONDURAS
+
+LLLLLa Gacetaa Gacetaa Gacetaa Gacetaa GacetaLLLLLa Gacetaa Gacetaa Gacetaa Gacetaa Gaceta
+
+## Sección A — Decretos y Acuerdos
+
+SECRETARÍA DE FINANZAS Acuerdo Número 1410-2014.
+
+PODER EJECUTIVO Acuerdo Ejecutivo Número 008-2014.
+
+AV ANCE SUMARIO A. 1-5 Desprendible para su comodidad
+
+## Sección B — Avisos Legales B. 1-28
+
+Secretaría de Seguridad ACUERDO NÚMERO 1410-2014 A. 6-7 COMAYAGÜELA, M.D.C., 29 DE JULIO DEL 2014.
+
+CONSIDERANDO: Que la Ley Orgánica de la Policía Nacional, contenida en el Decreto 156-1998 publicado en el Diario Oficial La Gaceta 28,617 del 18 de julio de 1998, crea el Consejo Nacional de Seguridad Interior (CONASIN) , mismo que fue reformado mediante Decreto Legislativo No. 67-2008, publicado en La Gaceta el 31 de octubr e de 2008.
+
+CONSIDERANDO: Que mediante Sesión Extraordinaria Número Uno (1) celebrada en las instalaciones de la Secretaría de Esta do en el Despacho de Seguridad el día 29 de julio del 2014, se aprobó el Reglamento del CONSEJO NACIONAL DE SEGURIDAD INTERIOR (CONASIN) , que le permita garantizar su debida organización y funcionamiento, lo que les conlleva a cumplir con el objeto de prestar asesoría, contribuir a la formulación de políticas públicas de seguridad y en particular encargada de canalizar la participación de la s ociedad civil en dichos asuntos.
+
+POR TANTO:
+
+En ejercicio de las facultades de que está investido y en aplic ación de los Artículos: 36 numerales 1) y 8) de la Ley General de la Administración Pública; 8 numeral 11) de la Ley Orgánica de la Policía Nacional. ACUERDA:
+
+PRIMERO: Aprobar en todas y cada una de sus partes el “REGLAMENTO DEL CONSEJO NACIONAL DE SEGURIDAD INTERIOR CONASIN”, el cual literalmente dice:
+
+REGLAMENTO DEL CONSEJO NACIONAL DE SEGURIDAD INTERIOR (CONASIN)
+
+### CAPÍTULO I — DISPOSICIONES GENERALES
+
+###### Artículo 1
+
+Naturaleza. El Consejo Nacional de Seguridad Interior (CONASIN), creado originalmente mediante Decreto Legislativo No. 156-98 y modificado por el Decreto No. 67-2008, es un órgano con jurisdicción a nivel nacional y con domicilio en la capital de la República, que podrá trasladarse temporalmente a cualquier otro lugar del territorio nacional, cuando así lo determine el propio Consejo.
+
+###### Artículo 2
+
+Composición. El Consejo Nacional de Seguridad Interior (CONASIN) es un órgano colegiado, compuesto por doce miembros integrados de la siguiente manera:
+
+1) El (la) Secretario(a) de Estado en el Despacho de Seguridad, quien lo presidirá;
+
+2) El (la) Secretario(a) de Estado en los Despachos de Derechos Humanos, Justicia, Gobernación y Descentralización;
+
+3) El (la) Fiscal General de la República;
+
+4) El (la) Presidente(a) de la Corte Suprema de Justicia o su representante;
+
+5) El (la) Comisionado(a) Nacional de los Derechos Humanos o su representante;
+
+6) Un (a) Representante del Consejo Hondureño de la Empresa Privada (COHEP);
+
+A. 8 Sección A Acuerdos y Leyes REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 1 DE AGOSTO DEL 2014 No. 33,494 DIARIO OFICIAL DE LA REPÚBLICA DE HONDURAS DECANO DE LA PRENSA HONDUREÑA PARA MEJOR SEGURIDAD DE SUS PUBLICACIONES LIC. MARTHA ALICIA GARCÍA Gerente General JORGE ALBERTO RICO SALINAS Coordinador y Supervisor EMPRESA NACIONAL DE ARTES GRÁFICAS E.N.A.G.
+
+Colonia Miraflores Teléfono/Fax: Gerencia 2230-4956 Administración: 2230-3026 Planta: 2230-6767 CENTRO CÍVICO GUBERNAMENTAL La GacetaLa GacetaLa GacetaLa GacetaLa Gaceta
+
+7) Un (a) Representante de las Centrales Obreras, nombrado de común acuerdo por dichas organizaciones;
+
+8) Un (a) Representante de las Centrales Campesinas, nombrado(a) de común acuerdo por dichas organizaciones;
+
+9) Una Representante de las organizaciones de mujeres, nombrada de común acuerdo por todas las organizaciones femeninas de Honduras;
+
+10) Un(a) Representante de la Asociación de Municipios de Hond uras (AMHON);
+
+11) Un(a) Representante de las organizaciones de Derechos Human os, nombrado(a) de común acuerdo por todas las organizaciones que la integren; y,
+
+12) Un(a) Representante de los comités u organizaciones municipales de seguridad ciudadana, electo(a) de conformidad a su Reglamento. Cada uno de los miembros del Consejo tendrá su respectivo suple nte, que deberá llenar los mismos requisitos que el titular.
+
+La Secretaría de Estado en el Despacho de Seguridad enviará atenta nota a las instituciones representadas en el Consejo, para que en el término de quince (15) días calendarios se hagan las respectivas propuesta s de nombramiento.
+
+En caso de no presentarse en el término establecido, la institu ción respectiva perderá el derecho a su representación en ese período. Treinta
+
+(30) días antes de vacar en su cargo alguno de los mencionados en el párrafo anterior, el (la) Presidente(a) del Consejo Nacional de Seguridad Interior (CONASIN), requerirá a la organización respectiva para que proponga el (la) nuevo(a) representante.
+
+Si no se presentara propuesta de nombramiento por alguna institución, la ausencia del representante no afectará el quórum ni la toma de decisiones.
+
+###### Artículo 3
+
+Requisitos para ser miembro. Para ser miembro titular o suplente del Consejo Nacional de Seguridad Interior (CONASIN) s e requiere:
+
+1) Ser hondureño(a) por nacimiento;
+
+2) Ser ciudadano(a) en el ejercicio de sus derechos; y,
+
+3) Ser de reconocida idoneidad profesional.
+
+Los representantes titulares y suplentes, ante el Consejo Nacio nal de Seguridad Interior (CONASIN) acreditarán su representación, mediante acuerdo participativo del sector al que representan, o nombramiento por delegación de la representación que ostenta; extremo que hará c onstar mediante atenta nota dirigida a la Secretaría de Estado en los Despachos de Seguridad.
+
+Dicha Secretaría por medio del Secretario de Actuaciones del Co nsejo Nacional de Seguridad Interior (CONASIN), dará el trámite a la acreditación, previo a efectuar la Secretaría de Estado en el Despacho de Seguridad, las investigaciones de idoneidad para este cargo, a través de una investigación exhaustiva sobre vinculaciones a actos de corrup ción, criminalidad organizada, conflicto de intereses con gestiones propias de la seguridad pública, violaciones a derechos humanos, y demás inhabilidades para ser miembro.
+
+Durante un período que no excederá de 15 días calendario, notificará a la institución o sector representativo, la aceptación en el Consejo Nacional de Seguridad Interior (CONASIN).
+
+Una vez aceptados los y las representantes al Consejo Nacional de Seguridad Interior (CONASIN), se procederá a la juramentación de todas y todos los miembros titulares y suplentes, y subsecuentemente a la identificación, mediante carnet que acredita su participación como parte del Consejo Nacional de Seguridad Interior (CONASIN).
+
+Enviará comunicación inmediata al (la) Director (a) General, Inspectoría General, Directores Nacionales y demás autoridades policiales, para la colaboración debida con las y los miembros del Consejo Nacional de Seguridad Interior (CONASIN), plenamente identificadas e identificados mediante la acreditación respectiva.
+
+###### Artículo 4
+
+Duración de la Representación. La duración de la representación titular y suplente será por dos (2) años; los de más representantes se ajustarán a lo establecido para sus respectiv os cargos. El cumplimiento de sus funciones será ad honorem.
+
+###### Artículo 5
+
+Sustitución de Representante. La sustitución de la representación organizacional, sectorial o institucional, se realizará de la forma establecida en el artículo 3, del presente reglamento.
+
+### CAPÍTULO II — ATRIBUCIONES DEL CONSEJO NACIONAL DE SEGURIDAD INTERIOR (CONASIN)
+
+###### Artículo 6
+
+Atribuciones. Corresponden al Consejo Nacional de Seguridad Interior (CONASIN) las atribuciones siguientes:
+
+1) Asesorar en materia de seguridad nacional a la Secretaría de Estado en el Despacho de Seguridad;
+
+2) Conocer los asuntos de seguridad que someta a su consider ación el (la) Secretario(a) de Estado en el Despacho de Seguridad;
+
+3) Coordinar actividades de la sociedad civil en asuntos de seguri dad y someterlas oportunamente a la aprobación de la Secretaría de Estado en el Despacho de Seguridad;
+
+Sección A Acuerdos y Leyes REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 1 DE AGOSTO DEL 2014 No. 33,494
+
+4) Formular recomendaciones que sirvan para fortalecer y apoy ar el Sistema Educativo Policial en todos sus niveles;
+
+5) Presentar iniciativas que sirvan para garantizar la partic ipación ciudadana en las gestiones propias de la Policía Nacional;
+
+6) Supervisar el proceso de selección del (la) Director(a) General de la Policía Nacional, de los (las) Directores(as) Nacionales de la Policía Nacional y el (la) Inspector(a) General, así como emitir sus recomendaciones al (la) Secretario(a) de Estado en el Despacho de Seguridad;
+
+7) Instar las investigaciones de las denuncias en relación a las conductas impropias de los titulares de los órganos y el personal de la Carrera Policial;
+
+8) Proponer y promover políticas públicas y estrategias de participación ciudadana en materia de seguridad;
+
+9) Realizar gestiones de cooperación de la sociedad civil en apoyo a la Policía Nacional;
+
+10) Rendir informes trimestrales de su gestión, los que serán presentados a la población en general, y extraordinariamente cuando así lo acuerde el propio Consejo atendiendo al interés nacional;
+
+11) Emitir el Reglamento Interno para su organización y funcionamiento;
+
+12) Trasladar de inmediato a la Dirección de Investigación y Evaluación de la Carrera Policial, Inspectoría General de la Policía Nacional y al Ministerio Público, cualquier denuncia que reciba o hecho delictivo del que tenga conocimiento atribuido a miembros de la Carrera Policial.
+
+13) Contribuir a la formulación de políticas públicas de seguridad;
+
+14) Canalizar la participación de la sociedad civil en dichas políticas;
+
+15) Nombrar al Secretario del Consejo Nacional de Seguridad In terior (CONASIN), dentro de sus mismos miembros titulares;
+
+16) Nombrar las comisiones que fueren necesarias, integradas p or los miembros que lo conforman y los profesionales técnicos necesarios para resolver asuntos especializados, que les sean conferidos; y,
+
+17) Las demás atribuciones que legalmente le confieran.
+
+Las atribuciones a las que se refiere este artículo, no autorizan ni al Consejo Nacional de Seguridad Interior (CONASIN), ni a sus miembros, pa ra intervenir en las investigaciones policiales.
+
+###### Artículo 7
+
+Actividades de los miembros. El Consejo Nacional de Seguridad Interior (CONASIN), en el cumplimiento de sus atribuciones, realizarán las siguientes actividades:
+
+A) Como Ente Asesor de la Secretaría de Seguridad:
+
+1. Se informará de los programas o proyectos que elabore o pretenda elaborar dicha Secretaría;
+
+2. Conocerá y recomendará sobre los reglamentos y manuales orgánicos y operativos de la Policía Nacional;
+
+3. Podrá recomendar, por intermedio de la Secretaría de Estado en el Despacho de Seguridad, la creación de unidades especiales de Policía y formulará las recomendaciones pertinentes;
+
+4. Podrá invitar a comparecencia a sus sesiones, a cualquier funcionario público o particulares, para conocer opiniones de interés para el Consejo;
+
+5. Conocer los asuntos de seguridad que le sometan a su consideración;
+
+6. Supervisar el proceso de selección y evaluación del nombramiento de la Dirección General, la Inspectoría General de la Policía Nacional y las Direcciones Nacionales;
+
+7. Trasladará de inmediato a la Dirección de Investigación y Evaluación de la Carrera Policial, Inspectoría General de la Policía Nacional y al Ministerio Público, cualquier denuncia que reciba o hecho delictivo del que tenga conocimiento atribuido a miembros de la Carrera Policial;
+
+8. Solicitar informe trimestral de las actuaciones de la Dire cción de Investigación y Evaluación de la Carrera Policial.
+
+B) Como ente formulador de Políticas Públicas de Seguridad:
+
+1. Hará recomendaciones que sirvan para fortalecer y apoyar el sistema educativo policial en todos sus niveles; a tal efecto conocerá los manuales, reglamentos y otros materiales de instrucción académica de los educandos en materia policial y de los utilizados en la formación de escala básica;
+
+2. Solicitará ante la autoridad competente se le brinde el a cceso a sus instalaciones y documentos relacionados con los asuntos sometidos a su conocimiento, así como para brindar apoyo a las solicitude s o denuncias que le sean formuladas por la ciudadanía en general.
+
+3. Celebrará reuniones periódicas con autoridades públicas y la sociedad civil que operen en materia de seguridad para unificar criterio s, estrategias y metodologías;
+
+4. Promover políticas públicas y estrategias de participación ciudadana en materia de seguridad;
+
+C) Como canalizador de inquietudes y participaciones de la sociedad civil en aspectos de Seguridad Pública:
+
+1. Establecerá alianzas estratégicas con otras instituciones y con organizaciones de la sociedad civil, para socializar las recomendaciones sobre la criminalidad y violencia a nivel nacional, regional o local;
+
+2. Trasladará las investigaciones por denuncias ciudadanas a la Di rección de Investigación y Evaluación de la Carrera Policial, Inspectoría General de la Policía Nacional y al Ministerio Público, en relación a conductas derivadas en falta o delitos de los miembros de la carrera policial, auxiliar, operativa, administrativa, personal de la Secretaría de Seguridad y asignados a ésta; y,
+
+3. Solicitar á informes al órgano competente de las gestiones de las investigaciones realizadas a cualquier miembro de la Carrera Policial, para poder formular las recomendaciones pertinentes.
+
+###### Artículo 8
+
+Nombramiento de Comisiones. En el cumplimiento de las atribuciones legales correspondientes, el Consejo Nacion al de Seguridad Interior (CONASIN) podrá nombrar las comisiones que fueren necesarias, integradas por los miembros que lo conforman y los profesionales técnicos necesarios para resolver asuntos especia lizados, que les sean conferidos, para su resolución.
+
+### CAPITULO III — DE LOS DERECHOS, DEBERES, OBLIGACIONES, PROHIBICIONES E IMPEDIMENTOS DE LOS MIEMBROS DEL CONSEJO NACIONAL DE SEGURIDAD INTERIOR (CONASIN)
+
+Sección A Acuerdos y Leyes REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 1 DE AGOSTO DEL 2014 No. 33,494
+
+###### Artículo 9
+
+Derechos de los miembros. Los derechos de las y los miembros del Consejo Nacional de Seguridad Interior (CONASIN), son los siguientes:
+
+1) Participar en las reuniones con voz y voto;
+
+2) Traslado de denuncias de los sectores que representan;
+
+3) Proponer e incorporar temas a la agenda para el respectivo debate;
+
+4) Solicitar que se efectúen investigaciones sobre determinados temas;
+
+5) Razonamiento de votos y dejar constancia sobre los mismos;
+
+6) Recibir copia de las actas respectivas, donde consten todos los acuerdos y resoluciones adoptadas;
+
+7) Socializar las actuaciones realizadas ante el pleno del Consejo Nacional de Seguridad Interior (CONASIN), con las organizaciones o instituciones a las cuales se representa, a excepción de las denuncias o procesos de investigación criminal o asuntos que exigen confidencialidad; y,
+
+8) Participar en las actividades, talleres, cursos que promueva la Secretaría de Estado en el Despacho de Seguridad.
+
+###### Artículo 10
+
+Deberes de los miembros. Son deberes de las y los miembros del CONASIN:
+
+1) Asistir puntual y regularmente a las sesiones ordinarias o extraordinarias, siempre que fueren convocados en legal y debid a forma, debiendo permanecer durante su desarrollo hasta que concluya la sesión, a efecto de que no se interrumpa la marcha regular d el trabajo, salvo causa o motivo justificado;
+
+Si por causa justificada no puede asistir a las sesiones el miembr o propietario, lo sustituirá el suplente o sustituto legal debida mente acreditado.
+
+2) Guardar confidencialidad en las informaciones consideradas clasificadas o reservadas dadas a conocer en el Interior del Consejo Nacional de Seguridad Interior (CONASIN);
+
+3) Contribuir al respeto mutuo y al armónico desempeño de las y los miembros del Consejo;
+
+4) Cumplir con las tareas o funciones que en el pleno se asig nen y cualquier otra actividad que ayude al mejor desempeño del Consejo.
+
+###### Artículo 11
+
+Elaboración de informes trimestrales. El Consejo Nacional de Seguridad Interior (CONASIN) rendirá informes trimestrales de su gestión, los que serán elaborados por una comisión intern a, nombrada al efecto y que serán presentados por el (la) Secretar io (a) de Estado en el Despacho de Seguridad, a la población en general, en comparecencia pública.
+
+###### Artículo 12
+
+Inhabilidades. No podrá ser miembro del Consejo Nacional de Seguridad Interior (CONASIN), la persona que se encuentre en cualquiera de los siguientes supuestos:
+
+1) Haber sido condenado(a) por cualquier delito o esté inhabilitad o para el desempeño de sus funciones públicas;
+
+2) Haber sido beneficiado(a) por los criterios de oportunidad o suspensión de la persecución penal;
+
+3) Haber recibido auto de prisión o habiendo cesado éste, haya estado vigente durante el último año anterior a su postulación; y,
+
+4) Haber sido sancionado(a) por alguna infracción administrativa muy grave o causado baja deshonrosa de las Fuerzas Armadas o de la Policía Nacional.
+
+### CAPÍTULO IV — DEL CONSEJO NACIONAL DE SEGURIDAD INTERIOR, SU INTEGRACIÓN Y PROCEDIMIENTO DE LAS SESIONES
+
+###### Artículo 13
+
+Sesiones y convocatoria. El Consejo Nacional de Seguridad Interior (CONASIN), sesionará ordinariamente por lo menos una vez al mes y los días que fueren necesarios para la marcha expedita de los asuntos sometidos a su conocimiento.
+
+Las convocatorias para sesión del pleno del Consejo se harán por escrito enviadas por la o el Presidente, o a petición de siete (7) de sus miembros propietarios, a través del Secretario de Actuaciones del Consej o, con siete (7) días de anticipación, salvo caso de urgencia califica da por la Presidencia, debiendo dejar constancia de este extremo, así com o la recepción de dichas convocatorias y de la documentación de los temas a tratar, cuando proceda, acompañando la agenda y copia de los documentos a discutir, pudiendo efectuarse la convocatoria a tr avés de medios electrónicos.
+
+Las sesiones que se efectúen en el domicilio del Consejo o en regionales tendrán el carácter de privadas, y en la misma sólo estarán presentes sus representantes, a excepción de invitados o invitadas previo conocimiento del pleno y sólo para el punto en la agenda en particular.
+
+###### Artículo 14
+
+Quórum. El Consejo Nacional de Seguridad Interior (CONASIN), está integrado por doce (12) miembros, y el quórum s e entenderá debidamente conformado con la presencia de siete (7) de sus miembros, y sus decisiones se adoptarán con la mitad más uno de los miembros presentes en sesión de Consejo, en caso de empate el Presidente
+
+(a) tendrá voto de calidad.
+
+###### Artículo 15
+
+Orden de las sesiones. Presidirá las sesiones el titular de la Secretaría de Seguridad, las que se desarrollarán en el siguiente orden: Previa comprobación del quórum se declarará abierta la sesión y, el Secretario dará lectura a la agenda del día para su aprobaci ón; acto seguido dará lectura al acta de la sesión anterior, la que inmediatamente después se pondrá a discusión. Antes de ser aprobada el acta, cualquiera de las y los miembros podrán hacer observaciones, a efecto de q ue se hagan las correcciones o rectificaciones, si procedieren.
+
+Aprobada el acta, el Presidente(a) preguntará si hay reconsider aciones que proponer y si hubieren y fueren admitidas, se procederá de nuevo a la discusión del asunto que las motive, hasta que el Consejo decida sobre ellas y en ese mismo acto se procederá a la firma de la misma; posteriormente, la o el Secretario de Actuaciones, dará cuenta de la correspondencia recibida y enviada, de la solicitudes presentad as y de los asuntos pendientes.
+
+En caso que los asuntos que sean sometidos a su consideración requieran una pronta ejecución, deberán ser ratificados en la misma sesión, para su ejecución y puesta en práctica.
+
+### CAPÍTULO V — DE LA PRESIDENCIA DEL CONSEJO NACIONAL DE SEGURIDAD INTERIOR
+
+###### Artículo 16
+
+Presidencia y sus atribuciones. Son atribuciones del Presidente del Consejo Nacional de Seguridad Interior CONASIN:
+
+a) Representar al Consejo Nacional de Seguridad Interior (CONASIN) en los asuntos que determine el pleno del mismo;
+
+b) Convocar a sesión ordinaria una vez al mes, y/o de forma extraordinaria cuando las circunstancias lo ameriten; la convocatoria también podrá ser realizada a petición de no menos de siete (7) de sus miembros; Sección A Acuerdos y Leyes
+
+c) Proponer la agenda de la sesión, que deberá ser incluida en la convocatoria;
+
+d) Dirigir los debates del Consejo, estableciendo el orden en que se concederá la palabra en el desarrollo de las sesiones;
+
+e) Autorizar con su firma y la de la o el Secretario(a) las certificaciones de las actas del Consejo;
+
+f) Hacer del conocimiento de los miembros del CONASIN las propuestas de nombramiento de los Directores y funcionarios de alto rango en la Policía Nacional para que puedan hacer sugerencias u observaciones, a efecto de contribuir a seleccionar la persona idónea en el cargo;
+
+g) Girar comunicación a las y los miembros del Consejo Nacional de Seguridad Interior (CONASIN) sobre asuntos urgentes de su competencia, pudiendo hacer la comunicación a través de cualquier medio incluyendo los electrónicos, cuando las circunstancias del momento les impida reunirse en sesión ordinaria o extraordinaria;
+
+h) Enviar al Presidente de la República, en el mes de febrero de cada año, el resumen de los datos estadísticos de las labores realizadas durante el año anterior;
+
+i) Ejercer cualquier otra atribución que le corresponda conforme a la ley.
+
+### CAPÍTULO VI — DE LA SECRETARIA
+
+###### Artículo 17
+
+Secretaría del Consejo. La Secretaría del Consejo Nacional de Seguridad Interior (CONASIN) la ejercerá una o un miembro propietario y una o un suplente, electo formalmente en la primera sesión, para un período de un (1) año.
+
+###### Artículo 18
+
+Funciones del Secretario. Las funciones de la o el Secretario serán las siguientes:
+
+a) Custodiar y conservar en buen estado los expedientes, libros, legajos y demás documentos del Consejo;
+
+b) Levantar acta de cada sesión, haciendo constar el lugar, quorum, fecha, agenda, duración, participaciones y demás circunstancias ocurridas durante la sesión;
+
+c) Redactar las actas de las sesiones, indicando, en forma clara y preci­ sa, lo que se hubiere tratado, acordado o resuelto y lo que expresamente hubiere pedido alguno de los miembros asistentes;
+
+d) Extender y autorizar con su firma las certificaciones de actas y demás resoluciones de éste;
+
+e) Entregar a cada miembro del Consejo, una copia del acta de cada sesión que se efectúe;
+
+f) Recopilar leyes, decretos, reglamentos, reformas normativas y circu­ lares en materia de seguridad, que estén relacionados con las atribuciones legales del Consejo y ponerlas a disposición de todos los miembros de CONASIN;
+
+g) Cumplir con las demás obligaciones que le señale la Ley;
+
+h) La o el suplente ejercerá las funciones de la Secretaría por ausencia justificada o excusa del Secretario en propiedad.
+
+###### Artículo 19
+
+Asistente de la Secretaría. La Secretaría del Consejo podrá tener un asistente ejecutivo nombrado por éste, quien se someterá a concurso público, de acuerdo a la normativa y procedimiento correspondiente y devengará el sueldo que se le asigne.
+
+El Consejo tendrá la obligación de seleccionar y evaluar los méritos profesionales para el cargo.
+
+###### Artículo 20
+
+Responsabilidad de la Secretaría. De las actas y demás documentación del Consejo Nacional de Seguridad Interior No. 33,494 (CONASIN) responderá la o el Secretario y solamente éste podrá emitir y firmar constancias o certificaciones sobre las mismas.
+
+Al finalizar su gestión deberá efectuar entrega certificada de la documentación bajo su custodia, caso contrario se le deducirá la responsabilidad administrativa correspondiente.
+
+###### Artículo 21
+
+Ausencia del Secretario. Cuando la ausencia de la o el Secretario fuere definitiva, deberá nombrarse dentro de los quince (15) días siguientes, a su sustituto en propiedad, dentro de los mismos miembros titulares o suplentes.
+
+### CAPITULO vn — DE LOS DEBERES DE LA SECRETARIA DE ESTADO EN EL DESPACHO DE SEGURIDAD RESPECTO AL FUNCIONAMIENTO DEL CONASIN
+
+###### Artículo 22
+
+Partida especial de funcionamiento. La Secretaría de Estado en el Despacho de Seguridad, incluirá en el proyecto de su presupuesto una partida especial destinada para los gastos de funcionamiento del Consejo Nacional de Seguridad Interior (CONASIN). En el mes de junio de cada año el Consejo Nacional de Seguridad Interior (CONASIN), elaborará su plan operativo anual, e incluirá su respectivo presupuesto.
+
+###### Artículo 23
+
+La oficina del Consejo de Seguridad Interior funcionará en las instalaciones de la Secretaría de Estado en el Despacho de Seguridad, para lo cual destinará los recursos para el acondicionamiento y equipamiento para el normal funcionamiento y resguardo de la documentación de este Consejo.
+
+###### Artículo 24
+
+Asistencia al Consejo. La Secretaría de Estado en el Despacho de Seguridad prestará el apoyo logístico para que el CONASIN pueda ejercer sus funciones con independencia y sin dificultades de orden material o físico.
+
+###### Artículo 25
+
+Cumplimiento de las decisiones del Consejo. La Secretaría de Estado en el Despacho de Seguridad adoptará las decisiones que sean necesarias para llevar a cabo las recomendaciones que formule el CONASIN dentro del marco de la ley, el desarrollo administrativo interno y los límites presupuestarios.
+
+### CAPITULO VIII — DISPOSICIONES FINALES
+
+###### Artículo 26
+
+Vigencia. El presente Acuerdo Ejecutivo entrará en vigencia a partir del día de su publicación en La Gaceta, Diario Oficial de la República de Honduras.
+
+PUBLIQUESE.
+
+ARTURO GERARDO CORRALES ALVAREZ Secretario de Estado en el Despacho de Seguridad MANUEL DE JESÚS LUNA GUTIÉRREZ Secretario General REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C, 1 DE AGOSTO DEL 2014 A. 5
